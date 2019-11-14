@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "outDir": "server",
+        "module": "commonjs",
+        "experimentalDecorators": true,
+        "lib": [
+            "es6",
+            "dom",
+            "es2015.promise"
+        ],
+        "types": []
+    },
+    // "include": [
+    //     "src",
+    //     "libs"
+    // ]
+    "exclude": ["build", "out"]
+}
