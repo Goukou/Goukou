@@ -1,0 +1,35 @@
+{
+  "engineVersion": "5.2.27",
+  "compilerVersion": "5.2.27",
+  "template": {},
+  "target": {
+    "current": "web"
+  },
+  "modules": [
+    {
+      "name": "egret"
+    },
+    {
+      "name": "eui"
+    },
+    {
+      "name": "assetsmanager"
+    },
+    {
+      "name": "tween"
+    },
+    {
+      "name": "promise"
+    },
+    {
+      "name": "WXCloudApi",
+      "path": "./libs/WXCloudApi"
+    },
+    {
+      "name": "egretmgobe",
+      "path": "./libs/egretmgobe"
+    },{
+       "name": "socket"
+    }
+  ]
+}

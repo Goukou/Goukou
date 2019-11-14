@@ -1,0 +1,40 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/promise/promise.js",
+		"libs/WXCloudApi/WXCloudApi.js",
+		"libs/egretmgobe/egretmgobe.js",
+		"libs/modules/socket/socket.js"
+	],
+	"game": [
+		"bin-debug/game/public/playdata.js",
+		"bin-debug/newframework/NetFactory.js",
+		"bin-debug/game/public/start.js",
+		"bin-debug/Platform.js",
+		"bin-debug/ThemeAdapter.js",
+		"bin-debug/game/public/ceshi.js",
+		"bin-debug/game/public/maindata.js",
+		"bin-debug/game/public/palyer.js",
+		"bin-debug/game/public/play.js",
+		"bin-debug/AssetAdapter.js",
+		"bin-debug/game/public/playerhandler.js",
+		"bin-debug/game/public/register.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/newframework/APIDefine.js",
+		"bin-debug/newframework/asConfig.js",
+		"bin-debug/newframework/asLocalStorage.js",
+		"bin-debug/newframework/Http.js",
+		"bin-debug/newframework/HttpFactory.js",
+		"bin-debug/newframework/HttpRequest.js",
+		"bin-debug/newframework/myapi.js",
+		"bin-debug/newframework/myhttp.js",
+		"bin-debug/Main.js",
+		"bin-debug/newframework/Playerget.js",
+		"bin-debug/newframework/socketfactory.js",
+		"bin-debug/newframework/StatictisManager.js"
+	]
+}
