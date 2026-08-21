@@ -1,6 +1,6 @@
 <div id="title" align=center>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Goukou;鹿婉/Font=ShortStack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Goukou;鹿婉/?Font=ShortStack)](https://git.io/typing-svg)
  
 ![头像](image/Lw.png)
 ##
