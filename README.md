@@ -6,12 +6,14 @@
 ##
 ![Anurag's GitHub stats](https://api.moedog.org/count/@Goukou.readme)
 ##
-数人间百载千秋  
-朝暮过日月轮转  
-敬杯盏贺锦绣山川  
-唱清平家国永乐  
-酬天地邀四海同欢  
-入画图作盛世长安 
+
+我见 楼台雪明 江流月涌 洛阳花正红  
+我酬 高山流水 故友新朋 陈年酒正浓  
+我闻 雨落剑声 风振弦动 平生掷骁勇  
+此间 残酒霜刃 杀尽风尘 俱是旧景深  
+从来 无须一言 不用一问 凭心意相认  
+请君再去江湖听首春
+
 
 <!--
 **Goukou/Goukou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
