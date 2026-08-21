@@ -1,6 +1,6 @@
 <div id="title" align=center>
 
-![Modern C++ template][github-sub-title:img]  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
  
 ![头像](image/Lw.png)
 ##
@@ -13,9 +13,6 @@
 酬天地邀四海同欢  
 入画图作盛世长安 
 
-</div>
-
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com/demo/?font=Short+Stack&size=25&color=F714EE&center=true&vCenter=true&lines=Goukou;%E9%B9%BF%E5%A9%89
 <!--
 **Goukou/Goukou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
