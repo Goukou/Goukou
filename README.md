@@ -6,6 +6,8 @@
 酬天地邀四海同欢  
 入画图作盛世长安  
 ##
+![Metrics](/github-metrics.svg)
+##
 ![Anurag's GitHub stats](https://api.moedog.org/count/@Goukou.readme)
 
 <!--
