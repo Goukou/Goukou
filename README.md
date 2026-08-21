@@ -1,5 +1,7 @@
-<div id="title" align=center>
-  
+<div id="title" align=center>  
+
+![Modern C++ template][github-sub-title:img]  
+ 
 ![头像](image/Lw.png)
 ##
 ![Anurag's GitHub stats](https://api.moedog.org/count/@Goukou.readme)
