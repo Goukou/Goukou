@@ -7,11 +7,8 @@
 ![Anurag's GitHub stats](https://api.moedog.org/count/@Goukou.readme)
 ##  
 
-昨日皆过往  
-莫耽误今朝  
-吃饱  
-憎恶仇怨全消
-
+I’ll be your star  
+You’ll be my star
 
 <!--
 **Goukou/Goukou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
