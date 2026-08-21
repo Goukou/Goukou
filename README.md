@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Short+Stack&size=25&pause=1000&color=9BE2F7&center=true&vCenter=true&repeat=false&width=435&lines=%E2%8E%9B%E2%8E%9D+Goukou+%E2%8E%A0%E2%8E%9E)](https://git.io/typing-svg)
  
-![头像](image/Lw.png)
+![头像](image/LL.png)
 ##
 ![Anurag's GitHub stats](https://api.moedog.org/count/@Goukou.readme)
 ##  
